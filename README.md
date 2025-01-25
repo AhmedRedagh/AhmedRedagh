@@ -2,7 +2,7 @@
 **Flutter Architect 🚀 | Mobile App Alchemist ⚡ | 7+ Apps Published 📱**  
 📍 Cairo, Egypt | 📧 deyahmedelgharbawy@gmail.com | 📱 +201116644523  
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/yourusername](https://github.com/AhmedRedagh))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmed-reda-910151186/))
 
 ---
