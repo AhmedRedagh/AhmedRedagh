@@ -1,6 +1,6 @@
 # 👨💻 Ahmed Reda Elgharbawy  
 **Flutter Architect 🚀 | Mobile App Alchemist ⚡ | 7+ Apps Published 📱**  
-📍 Cairo, Egypt | 📧 deyahmedelgharbawy@gmail.com | 📱 +201116644523  
+📍 Cairo, Egypt | 📧 devahmedelgharbawy@gmail.com | 📱 +201116644523  
 
 [![GitHub](https://img.shields.io/badge/-View_My_Spells-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedRedagh)
 [![LinkedIn](https://img.shields.io/badge/-Decode_My_Matrix-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-reda-910151186/)
@@ -45,7 +45,20 @@
 | **[I-News TV](https://play.google.com/)** | Media-rich news platform with video/podcast integration | `Flutter` `Video Player` `WebView` `Pagination` |  
 
 ---
+## 🏆 Trophy Wall
+| Metric | Achievement | Proof |
+|--------|-------------|-------|
+| App Performance | 40% Faster Load Times | League+ Analytics |
+| Code Quality | 99.7% Crash-Free Sessions | Sanad Health Reports |
+| User Love | 4.8★ Average Rating | 7 Published Apps |
 
+## 🚨 Recent Code Exploits
+
+### 🔥 League+ Revolution  
+*Sports prediction platform shaking stadiums*  
+```bash
+# Tech DNA
+Flutter 3.13 • BLoC 8.1 • GraphQL 5.0 • Firebase Extensions
 ## 🏗️ **Architecture Blueprints**  
 ```dart
 void buildSuccess() {
