@@ -3,7 +3,7 @@
 📍 Cairo, Egypt | 📧 devahmedelgharbawy@gmail.com | 📱 +201116644523  
 
 [![GitHub](https://img.shields.io/badge/-View_My_Spells-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedRedagh)
-[![LinkedIn](https://img.shields.io/badge/-Decode_My_Matrix-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-reda-910151186/)
+[![LinkedIn](https://img.shields.io/badge/-Decode_My_Matrix-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devreda/)
 
 ---
 
